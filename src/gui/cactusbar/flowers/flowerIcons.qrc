@@ -1,0 +1,57 @@
+<!DOCTYPE RCC><RCC version="1.0">
+ <qresource prefix="/">
+ 	<file>beauty_flower_0.gif</file>
+ 	<file>beauty_flower_1.gif</file>
+ 	<file>beauty_flower_2.gif</file>
+ 	<file>beauty_flower_3.gif</file>
+ 	<file>beauty_flower_4.gif</file>
+ 	
+ 	<file>blue_flower_0.gif</file>
+ 	<file>blue_flower_1.gif</file>
+ 	<file>blue_flower_2.gif</file>
+ 	<file>blue_flower_3.gif</file>
+ 	<file>blue_flower_4.gif</file>
+ 	
+   <file>blue2_flower_0.gif</file>
+   <file>blue2_flower_1.gif</file>
+   <file>blue2_flower_2.gif</file>
+   <file>blue2_flower_3.gif</file>
+   <file>blue2_flower_4.gif</file>
+ 
+   <file>great_flower256_0.gif</file>
+   <file>great_flower256_1.gif</file>
+   <file>great_flower256_2.gif</file>
+   <file>great_flower256_3.gif</file>
+   <file>great_flower256_4.gif</file>
+ 
+	<file>neu2_flower_0.gif</file>
+	<file>neu2_flower_1.gif</file>
+	<file>neu2_flower_2.gif</file>
+	<file>neu2_flower_3.gif</file>
+	<file>neu2_flower_4.gif</file>
+
+	<file>new_flower_0.gif</file>
+	<file>new_flower_1.gif</file>
+	<file>new_flower_2.gif</file>
+	<file>new_flower_3.gif</file>
+	<file>new_flower_4.gif</file>
+
+   <file>pink_flower_0.gif</file>
+   <file>pink_flower_1.gif</file>
+   <file>pink_flower_2.gif</file>
+   <file>pink_flower_3.gif</file>
+   <file>pink_flower_4.gif</file>
+   
+   <file>red_flower_0.gif</file>
+   <file>red_flower_1.gif</file>
+   <file>red_flower_2.gif</file>
+   <file>red_flower_3.gif</file>
+   <file>red_flower_4.gif</file>
+   
+   <file>yellow_flower_0.gif</file>
+   <file>yellow_flower_1.gif</file>
+   <file>yellow_flower_2.gif</file>
+   <file>yellow_flower_3.gif</file>
+   <file>yellow_flower_4.gif</file>
+ </qresource>
+</RCC>
